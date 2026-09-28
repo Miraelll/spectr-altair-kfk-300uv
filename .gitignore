@@ -1,0 +1,14 @@
+build/
+build-*/
+*.Debug
+*.Release
+Makefile*
+
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user
+
+*.exe
+*.dll
+*.so
+*.dylib
